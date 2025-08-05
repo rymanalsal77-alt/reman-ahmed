@@ -1,0 +1,24 @@
+.one{
+color: black;
+background-color:gray;
+font-size:30px ;
+}
+.two{
+color: black;
+background-color: cadetblue;
+font-size: 30px;
+}
+.three{
+color: black;
+background-color: cornflowerblue;
+font-size: 30px;
+}
+
+#main-header{
+color: whitesmoke;
+background-color: aqua;
+font-size: 60px;
+}
+body{
+background-color: lightskyblue;
+}
